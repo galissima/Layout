@@ -1,0 +1,40 @@
+
+
+li { 
+  background: purple;
+  display: inline-block;
+  height: 20px;
+  list-style-type: none;
+  background-color: #a52a2a;
+  color: white;
+  padding: 16px;
+  margin: 5px;	
+}
+.list {
+	text-align: right;
+	border: none;
+}
+h4 , img , p {
+	display: inline-block;
+	
+}
+.mein {
+	background-color: #A89898;
+}
+p {
+	width: 400px;
+}
+ul {
+	background-color: #deb887;
+	margin-right: 30px;
+	margin-top: 6px;
+}
+div {
+	border: 3px solid #674d4e;
+}
+body {
+	width: 800px;
+}
+span {
+	background-color: blue;
+}
